@@ -14,7 +14,7 @@
         tools:targetApi="31">
         <meta-data
             android:name="com.naver.maps.map.CLIENT_ID"
-            android:value="l3bskmr49y" />
+            android:value="" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
